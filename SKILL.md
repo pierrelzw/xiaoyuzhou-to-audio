@@ -7,7 +7,7 @@ description: Download one or more Xiaoyuzhou (小宇宙) podcast episodes (up to
 
 Download up to **6 小宇宙 (Xiaoyuzhou FM) episodes** to local `.m4a` files in parallel, using `aria2c` with up to 6 connections per file. Self-contained.
 
-> Transcription is handled separately. After download, point the user at the `video-to-srt` skill if they want a transcript.
+> Transcription is handled separately. After download, point the user at the `media-to-srt` skill if they want a transcript.
 
 ## Limits
 

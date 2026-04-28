@@ -32,7 +32,7 @@ The skill triggers on: "下载小宇宙", "下载播客", "保存这期", or any
 
 - Files land in `~/Downloads/<sanitized-title>.m4a`
 - aria2c handles resume — re-run the same command to continue an interrupted download
-- For transcripts, follow up with the [video-to-srt](https://github.com/pierrelzw/video-to-srt) skill
+- For transcripts, follow up with the [media-to-srt](https://github.com/pierrelzw/media-to-srt) skill
 
 ## License
 

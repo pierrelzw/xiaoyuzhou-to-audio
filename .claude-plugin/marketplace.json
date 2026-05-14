@@ -1,0 +1,31 @@
+{
+  "name": "xiaoyuzhou-to-audio",
+  "owner": {
+    "name": "pierrelzw"
+  },
+  "metadata": {
+    "description": "Single-plugin marketplace for xiaoyuzhou-to-audio"
+  },
+  "plugins": [
+    {
+      "name": "xiaoyuzhou-to-audio",
+      "source": "./.",
+      "description": "Download Xiaoyuzhou (小宇宙) podcast episodes to local .m4a files using aria2c multi-connection download — up to 6 episodes in parallel",
+      "version": "0.1.0",
+      "author": {
+        "name": "pierrelzw"
+      },
+      "repository": "https://github.com/pierrelzw/xiaoyuzhou-to-audio",
+      "license": "MIT",
+      "keywords": [
+        "podcast",
+        "xiaoyuzhou",
+        "小宇宙",
+        "audio",
+        "download",
+        "aria2c"
+      ],
+      "category": "media-tools"
+    }
+  ]
+}
